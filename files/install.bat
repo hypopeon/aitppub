@@ -1,0 +1,1 @@
+powershell.exe -noexit ".\choco.ps1"  -ExecutionPolicy Bypass
